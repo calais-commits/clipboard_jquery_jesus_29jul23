@@ -30,7 +30,7 @@ To make this repository working in your local machine you need only a browser.
 
 👤 **Jesús Gabriel Meléndez Nuñez**
 
-- Github: [@comidita123](https://github.com/comidita123)
+- GitHub: [@comidita123](https://github.com/comidita123)
 
 
 ## 🤝 Contributing
@@ -47,6 +47,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - UneWeb institute.
+- Aristides Molina (Professor) GitHub [@aristides1000](https://github.com/aristides1000)
 
 ## 📝 License
 
